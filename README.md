@@ -55,8 +55,8 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  <a href="https://hyonna.notion.site/9e8f4b4b98784b32b586d73ab8457610">
+    <img src="https://img.shields.io/badge/Notion-1EBC8F?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
   </a>
   <a href="mailto:yha0118@gmail.com">
     <img
