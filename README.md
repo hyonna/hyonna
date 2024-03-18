@@ -55,9 +55,6 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://hyonna.notion.site/9e8f4b4b98784b32b586d73ab8457610">
-    <img src="https://img.shields.io/badge/Notion-1EBC8F?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
-  </a>
   <a href="mailto:yha0118@gmail.com">
     <img
       src="https://img.shields.io/badge/yha0118@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
