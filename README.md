@@ -19,6 +19,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=flat&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/Next.js-05427c.svg?style=flat&logo=next.js&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/angular-a6120d.svg?style=flat&logo=angular&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/RxJS-EA378E.svg?style=flat&logo=rxjs&logoColor=6B1B89" />&nbsp
   <img src="https://img.shields.io/badge/ngrx-6B1B89.svg?style=flat&logo=ngrx&logoColor=EA378E" />&nbsp
