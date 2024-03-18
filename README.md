@@ -68,15 +68,12 @@
 </div>
 
 
-
-
-
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="mailto:yha0118@gmail.com">
     <img
-      src="https://img.shields.io/badge/yha0118@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/yha0118@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </div>
