@@ -20,7 +20,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/angular-a6120d.svg?style=for-the-badge&logo=angular&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/rxjs-EA378E.svg?style=for-the-badge&logo=rxjs&logoColor=6B1B89" />&nbsp
+  <img src="https://img.shields.io/badge/RxJS-EA378E.svg?style=for-the-badge&logo=rxjs&logoColor=6B1B89" />&nbsp
   <img src="https://img.shields.io/badge/ngrx-6B1B89.svg?style=for-the-badge&logo=ngrx&logoColor=EA378E" />&nbsp
 </div>
 
@@ -36,6 +36,7 @@
  <img src="https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
@@ -49,11 +50,17 @@
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/gitlab-fc6d27.svg?style=for-the-badge&logo=gitlab&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 
+
+<br>
+
+<h3 align="center">🎨 UI/UX 🎨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
   <img src="https://img.shields.io/badge/adobe%20illustrator-3c240c.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=f5c460" />&nbsp
@@ -63,12 +70,6 @@
 
 
 
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-</div>
 
 <br>
 
