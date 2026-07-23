@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/angular-a6120d.svg?style=flat&logo=angular&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/RxJS-EA378E.svg?style=flat&logo=rxjs&logoColor=6B1B89" />&nbsp
   <img src="https://img.shields.io/badge/ngrx-6B1B89.svg?style=flat&logo=ngrx&logoColor=EA378E" />&nbsp
- <img src="https://img.shields.io/badge/zustand-6B1B89.svg?style=flat&logo=ngrx&logoColor=EA378E" />&nbsp
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react" />&nbsp
 </div>
 
 <div align="center">
