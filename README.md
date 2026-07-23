@@ -32,11 +32,9 @@
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=flat&logo=css3&logoColor=white" />&nbsp
 </div>
 
-<br>
-<h3 align="center">📚 Studying 📚</h3>
 <div align="center">
  <img src="https://img.shields.io/badge/Redux-764abc?style=flat&logo=redux&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Tanstack%20Query-FF4154?style=flat&logo=tanstack%20query&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />&nbsp
 </div>
@@ -45,8 +43,6 @@
   <img src="https://img.shields.io/badge/vite-purple?style=flat&logo=vite&logoColor=yellow" />&nbsp
   <img src="https://img.shields.io/badge/vercel-black?style=flat&logo=vercel&logoColor=white" />&nbsp
 </div>
-
-
 
 <br>
 
