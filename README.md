@@ -34,7 +34,7 @@
 
 <div align="center">
  <img src="https://img.shields.io/badge/Redux-764abc?style=flat&logo=redux&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Tanstack%20Query-FF4154?style=flat&logo=tanstack%20query&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Tanstack%20Query-FF4154?style=flat&logo=react%20query&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />&nbsp
 </div>
